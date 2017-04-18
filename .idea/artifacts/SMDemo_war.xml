@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SMDemo:war">
+    <output-path>$PROJECT_DIR$/SMDemo/target</output-path>
+    <root id="archive" name="MybatisAndSpring.war">
+      <element id="artifact" artifact-name="SMDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
